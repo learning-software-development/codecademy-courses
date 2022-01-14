@@ -11,7 +11,15 @@ These are all the [Codecademy][codecademy] tutorials and courses I completed to 
 
 ## :beginner: Online Tutorials and Courses
 
-:construction: WIP
+1. :heavy_check_mark: Welcome To Codecademy
+2. :heavy_check_mark: Learn HTML
+3. :heavy_check_mark: How to Make a Website with NameCheap
+4. :heavy_check_mark: Learn How to Code
+5. :heavy_check_mark: Learn the Command Line
+6. :o: Build a Websitewith HTML, CSS, and GitHub Pages
+7. :o: How to Deploy a Website
+8. :o: Learn Python 2
+9. :o: Learn Python 3
 
 ## :page_with_curl: License
 
